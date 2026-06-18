@@ -1,0 +1,11 @@
+/Users/hellboy/Actix-Web-Task-Service/target/debug/deps/xmlparser-cb3ea5bbb24fdc48.d: /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/lib.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/error.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/stream.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/strspan.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/hellboy/Actix-Web-Task-Service/target/debug/deps/libxmlparser-cb3ea5bbb24fdc48.rlib: /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/lib.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/error.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/stream.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/strspan.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/hellboy/Actix-Web-Task-Service/target/debug/deps/libxmlparser-cb3ea5bbb24fdc48.rmeta: /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/lib.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/error.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/stream.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/strspan.rs /Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/lib.rs:
+/Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/error.rs:
+/Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/stream.rs:
+/Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/strspan.rs:
+/Users/hellboy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xmlparser-0.13.3/src/xmlchar.rs:
